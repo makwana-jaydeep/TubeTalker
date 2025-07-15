@@ -1,0 +1,11 @@
+gradio
+tensorflow
+youtube-transcript-api
+langchain
+huggingface_hub
+faiss-cpu
+transformers
+torch
+langchain_community
+sentence-transformers
+langchain_huggingface
