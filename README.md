@@ -17,7 +17,7 @@ The system leverages the `mistralai/Mistral-7B-Instruct-v0.2` model for question
 ```
 TubeTalker/
 ├── app.py                  # Gradio UI and orchestration logic
-├── embeddings/             # Embedding model setup and functions (excluded via .gitignore)
+├── embedding_model/             # Embedding model setup and functions (excluded via .gitignore)
 ├── model/                  # Chain, retriever, and LLM construction
 ├── utils/                  # Utility functions (e.g., extract YouTube video ID)
 ├── assets/                 # Screenshots or visual assets
